@@ -4,8 +4,10 @@
 
 ## Tareas del Curso
 
-## Analisis de Algoritmos
+- [Analisis de Algoritmos](#analisis-de-algoritmos)
+- [TAD](#tad)
+- [Gráficos](#grádicos)
 
-## TAD
-
-## Gráficos
+### Analisis de Algoritmos
+### TAD
+### Gráficos
