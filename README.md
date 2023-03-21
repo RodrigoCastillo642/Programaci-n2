@@ -1,13 +1,12 @@
 # Programaci-n2
 
-## Lista de Proyecto
-
-## Tareas del Curso
+## Temas del Curso
 
 - [Analisis de Algoritmos](#analisis-de-algoritmos)
 - [TAD](#tad)
-- [Gráficos](#grádicos)
+- [Gráficos](#gráficos)
 
 ### Analisis de Algoritmos
 ### TAD
 ### Gráficos
+### Lista de Proyecto
